@@ -18,12 +18,11 @@ Research
 ======
 At the moment, I work on topics related to the transmission of intergenerational advantages and Inequality of Educational Opportunities. I use quantitative methods and (aim for) causal inference designs.
 
-What I'm tweeting atm
-======
+### What I'm tweeting about
+
 ```html 
 </div>
-                
-                <i class="twittertop" style="display:none;" id="t1">
+<i class="twittertop" style="display:none;" id="t1">
                     <div id="news" tyle="text-align: left"  class="col-md-5">&nbsp;
                         <center><a class="twitter-timeline" href="https://twitter.com/marespadafor" data-chrome="nofooter" data-widget-id="346662554203992065" data-width="900"
                             data-height="300">Tweets
