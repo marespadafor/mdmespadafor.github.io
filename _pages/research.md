@@ -3,13 +3,28 @@ title: ""
 permalink: /research/
 author_profile: true
 ---
-## Working papers
+# Working papers
 
-<b> Not brought up for school success? Explaining the socio-economic gradient within the reverse gender gap in educational outcomes. </b><br>  <i>Draft available upon request</i>.   
+## Not brought up for school success? Explaining the socio-economic gradient within the reverse gender gap in educational outcomes. 
+Why are boys who grow up in socio-economically disadvantaged environments falling behind girls living in similar conditions? Although there is a growing literature showing the importance of family socioeconomic status (SES) for explaining the male disadvantage in education, the mechanisms underlying the observed SES-gradient within the gender gap in education remains unknown. This paper aims to establish how gendered behaviours, which are stratified by family-SES, ultimately lead to the observed gender-SES differences in educational outcomes.
 
-<b> Selection or compensation? The uneven effect of grade retention across family origins </b><br> with Fabrizio Bernardi. <i>Draft available upon request</i>. 
+First, I document the interaction between family SES and gender for several school-relevant outcomes. Then, I test two different but complementary mechanisms that explain this pattern: the lower incidence of problem behaviours within high-SES families, and the higher incidence of school detachment within low-SES families.
 
-<b> Gambling harms human capital formation </b><br> with Sergi Martínez. <i>Draft available upon request</i>.   
+To test these questions, I use the Millennium Cohort Study, a longitudinal panel from the United Kingdom, to focus on children's trajectories from age three to seventeen. Taking a life-course perspective, instead of focusing on a single point in time, allows this study to examine which characteristics are most influential at various stages of the children's schooling career by gender and how their influence changes with different levels of SES.
 
-## Work in progress
-<b> School entry age and parental strategic behaviour: A tale of two mechanisms of social inequality in early achievement, </b><br> with Giampiero Passaretta. <i>Presentation available upon request</i>. 
+<i>Draft available upon request</i>.   
+
+## Selection or compensation? The uneven effect of grade retention across family origins, with Fabrizio Bernardi. 
+This paper focuses on the uneven effect of a remediation policy within the educational system: grade retention. We study the transition from Compulsory Education to higher secondary education in Spain, where retaking is relatively high. We investigate whether retaking a grade during compulsory education reduces the probability of remaining in the education system and whether the negative effect of retaking on school continuation decisions differs by social origins. Drawing upon different data-sets, we use two innovative research designs that account for selection in educational transition models: an instrumental variable approach and a re-weighting technique. First, we find that grade retention increases the chances of dropping out for all, but its effect is substantially more detrimental for children from disadvantaged backgrounds. Second, we show that naïve models that do not consider reverse causality and selection bias underestimate inter-generational transmission of educational inequalities. These findings suggest that grade retention fails as a remediation policy and instead increases the inter-generational transmission of inequalities in education.
+
+<i>Draft available upon request</i>. 
+
+## Gambling harms human capital formation, with Sergi Martínez. 
+The proliferation of on-site betting shops has received enormous public attention, becoming one of the most alarming health policy issues in contemporary cities. However, there is little evidence on whether its growing presence nearby vulnerable populations produce social harm beyond its known adverse individual effects. This study provides new evidence on the adverse societal effects of betting houses. Our research design takes advantage of a new wave of openings in Madrid (Spain), which created a sudden increase in the supply of on-site gambling. We find that an increase in the supply of betting houses aggravates educational inequalities. Results reveal that the opening of betting houses nearby high schools declines educational performance, but only in public schools in less advantaged areas.
+<i>Draft available upon request</i>.   
+
+# Work in progress
+## School entry age and parental strategic behaviour: A tale of two mechanisms of social inequality in early achievement, with Giampiero Passaretta. 
+Does school entry age affect social inequality in educational achievement? Previous literature shows that children who enter school at a younger age under perform compared to older classmates throughout school and adulthood.  In this article, we analyse whether families differently engage in strategic behaviours directed towards younger-for-grade children, and to what extent this accounts for the uneven effect of school entry age.  We contribute to the literature by providing an analytical example of two possible types of mechanisms that contribute to inequality in learning and achievement.
+Using the German National Educational Panel Study (NEPS) and a Regression Discontinuity Design (RDD), we estimate the effect of school entry age on various cognitive domains accounting for parental strategies before and during school. We find a negative effect of school entry age, which is substantially greater for low-SES children. High-ses families drive this result by over engaging in remediation strategies: they avoid and compensate for, an early school entry at above-average rates. Overall, we show that semi-strict rules for school admission, which allow for parental discretion, widen the school entry age gap in achievement. Changing school-entry rules to tackle uneven school-entry age effects might be an effective and not costly initiative from a policy perspective.
+<i>Presentation available upon request</i>. 
