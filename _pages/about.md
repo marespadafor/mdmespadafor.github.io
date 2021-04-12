@@ -19,7 +19,7 @@ Research
 At the moment, I work on topics related to the transmission of intergenerational advantages and Inequality of Educational Opportunities. I use quantitative methods and (aim for) causal inference designs.
 
 ### What I'm tweeting about
-{::options parse_block_html="true" /}
+::options parse_block_html="true"
 ```html 
 </div>
 <i class="twittertop" style="display:none;" id="t1">
