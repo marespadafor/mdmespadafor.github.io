@@ -3,7 +3,7 @@ title: ""
 permalink: /research/
 author_profile: true
 ---
-# Working papers
+# <span style="color: red"> Working papers </span>
 
 ## Not brought up for school success? Explaining the socio-economic gradient within the reverse gender gap in education. 
 Why are boys who grow up in socio-economically disadvantaged environments falling behind girls living in similar conditions? Although there is a growing literature showing the importance of family socioeconomic status (SES) for explaining the male disadvantage in education, the mechanisms underlying the observed SES-gradient within the gender gap in education remains unknown. This paper aims to establish how gendered behaviours, which are stratified by family-SES, ultimately lead to the observed gender-SES differences in educational outcomes.
@@ -22,7 +22,7 @@ The proliferation of on-site betting shops has received enormous public attentio
 
 <i>Draft available upon request</i>.   
 
-# Work in progress
+# <span style="color: red"> Work in progress</span>
 ## School entry age and parental strategic behaviour: A tale of two mechanisms of social inequality in early achievement, with Giampiero Passaretta. 
 Does school entry age affect social inequality in educational achievement? Previous literature shows that children who enter school at a younger age under perform compared to older classmates throughout school and adulthood.  In this article, we analyse whether families differently engage in strategic behaviours directed towards younger-for-grade children, and to what extent this accounts for the uneven effect of school entry age.  We contribute to the literature by providing an analytical example of two possible types of mechanisms that contribute to inequality in learning and achievement.
 Using the German National Educational Panel Study (NEPS) and a Regression Discontinuity Design (RDD), we estimate the effect of school entry age on various cognitive domains accounting for parental strategies before and during school. We find a negative effect of school entry age, which is substantially greater for low-SES children. High-ses families drive this result by over engaging in remediation strategies: they avoid and compensate for, an early school entry at above-average rates. Overall, we show that semi-strict rules for school admission, which allow for parental discretion, widen the school entry age gap in achievement. Changing school-entry rules to tackle uneven school-entry age effects might be an effective and not costly initiative from a policy perspective.
