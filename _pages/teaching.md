@@ -6,8 +6,7 @@ author_profile: true
 
 
 
-
-- [Drawing Maps in R](https://github.com/marespadafor/drawingmaps)
+# [Drawing Maps in R](https://github.com/marespadafor/drawingmaps)
 
 This is an introductory course on spatial data I taught within the CLIC Training workshops (as part of the Advanced Topics in Social Mobility research seminar) at the European University Institute in 2020.
 
