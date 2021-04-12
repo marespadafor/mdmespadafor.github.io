@@ -20,4 +20,4 @@ At the moment, I work on topics related to the transmission of intergenerational
 
 ### What I'm tweeting about
 
-<a class="twitter-timeline" data-tweet-limit="2" href="https://twitter.com/marespadafor?ref_src=twsrc%5Etfw">Tweets by marespadafor</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-tweet-limit="1" href="https://twitter.com/marespadafor?ref_src=twsrc%5Etfw">Tweets by marespadafor</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
