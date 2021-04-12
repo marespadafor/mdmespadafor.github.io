@@ -12,7 +12,7 @@ redirect_from:
 About me
 ======
 
-I am a PhD candidate at the European University Institute and I am interested in broad topics such as social stratification. I studied a BA in Politics and Public Administration (Summa Cum Laude). Shortly after, I completed a [Master in Research in Social Sciences](https://ic3jm.es/en/postgraduates/master-degree-social-sciences/) at the Juan-March Institute. During these studies, I also worked part-time as RA at the “GEMM” project and collaborated within the [D-Lab](https://www.d-labsite.com/).
+I am a PhD candidate at the European University Institute and I am interested in broad topics such as social stratification. I studied a BA in Politics and Public Administration (Summa Cum Laude). Shortly after, I completed a [Master in Research in Social Sciences](https://ic3jm.es/en/postgraduates/master-degree-social-sciences/) at the Juan-March Institute. During these studies, I also worked part-time as RA at the “GEMM” project and collaborated within the [D-Lab](https://www.d-labsite.com/) at the Carlos-III University (Madrid, Spain).
 
 Research
 ======
