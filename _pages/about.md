@@ -7,9 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-![](http://marespadafor.github.io/images/productive.jpeg)
-
 About me
 ======
 
@@ -23,6 +20,7 @@ In my thesis, I look at how institutional barriers and random events unevenly af
 
 I have recently joint the [GEOSMINE](https://www.fabriziobernardi.net/the-geography-of-social-mobility-in-europe/) (Geography of Social Mobility in Europe) project, lead by Fabrizio Bernardi and based at the [CLIC](https://www.eui.eu/Projects/CLIC) (Comparative Life Course & Inequality Research Centre). This project aim is to understand how the interplay between place of birth and social class of origin affect the intergenerational reproduction of inequalities.
 
+![](http://marespadafor.github.io/images/productive.jpeg)
 
 
 ### What I'm tweeting about
