@@ -30,4 +30,4 @@ I have recently joint the [GEOSMINE](https://www.fabriziobernardi.net/the-geogra
 
 ###
 
-![](productive.png)
+http://marespadafor.github.io/images/productive.png
