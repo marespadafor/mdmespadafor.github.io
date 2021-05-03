@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+![](http://marespadafor.github.io/images/productive.jpeg)
 
 About me
 ======
@@ -27,7 +28,3 @@ I have recently joint the [GEOSMINE](https://www.fabriziobernardi.net/the-geogra
 ### What I'm tweeting about
 
 <a class="twitter-timeline" data-tweet-limit="1" data-width="700"  align="center"  href="https://twitter.com/marespadafor?ref_src=twsrc%5Etfw"> </a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-###
-
-![](http://marespadafor.github.io/images/productive.jpeg)
