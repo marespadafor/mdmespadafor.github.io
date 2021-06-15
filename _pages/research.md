@@ -17,10 +17,10 @@ This paper focuses on the uneven effect of a remediation policy within the educa
 
 <i>Draft available upon request</i>. 
 
-## Gambling harms human capital formation, with Sergi Martínez. 
+## The negative consequences of gambling opportunities on human capital formation: Evidence from Spain, with Sergi Martínez. 
 The proliferation of on-site betting shops has received enormous public attention, becoming one of the most alarming health policy issues in contemporary cities. However, there is little evidence on whether its growing presence nearby vulnerable populations produce social harm beyond its known adverse individual effects. This study provides new evidence on the adverse societal effects of betting houses. Our research design takes advantage of a new wave of openings in Madrid (Spain), which created a sudden increase in the supply of on-site gambling. We find that an increase in the supply of betting houses aggravates educational inequalities. Results reveal that the opening of betting houses nearby high schools declines educational performance, but only in public schools in less advantaged areas.
 
-<i>Draft available upon request</i>.   
+<i>Draft available upon request</i>. (Stage: R&R) 
 
 # <span style="color:#52adc8"> Work in progress</span>
 ## School entry age and parental strategic behaviour: A tale of two mechanisms of social inequality in early achievement, with Giampiero Passaretta. 
