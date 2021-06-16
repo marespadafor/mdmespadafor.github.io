@@ -5,7 +5,7 @@ author_profile: true
 ---
 # <span style="color:#52adc8"> Working papers </span>
 
-## Not brought up for school success? Explaining the socio-economic gradient within the reverse gender gap in education. 
+## Not brought up for school success? Explaining the socio-economic gradient within the reverse gender gap in school outcomes.
 Why are boys who grow up in socio-economically disadvantaged environments falling behind girls living in similar conditions? Although there is a growing literature showing the importance of family socioeconomic status (SES) for explaining the male disadvantage in education, the mechanisms underlying the observed SES-gradient within the gender gap in education remains unknown. This paper aims to establish how gendered behaviours, which are stratified by family-SES, ultimately lead to the observed gender-SES differences in educational outcomes.
 First, I document the interaction between family SES and gender for several school-relevant outcomes. Then, I test two different but complementary mechanisms that explain this pattern: the lower incidence of problem behaviours within high-SES families, and the higher incidence of school detachment within low-SES families.
 To test these questions, I use the Millennium Cohort Study, a longitudinal panel from the United Kingdom, to focus on children's trajectories from age three to seventeen. Taking a life-course perspective, instead of focusing on a single point in time, allows this study to examine which characteristics are most influential at various stages of the children's schooling career by gender and how their influence changes with different levels of SES.
