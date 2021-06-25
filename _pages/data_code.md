@@ -1,7 +1,7 @@
 
 ---
 title: ""
-permalink: /data_code/
+permalink: /datacode/
 author_profile: true
 ---
 
