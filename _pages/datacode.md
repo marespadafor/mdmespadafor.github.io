@@ -1,13 +1,9 @@
 ---
-permalink: /
-title: ""
-excerpt: "Data & Code"
+layout: archive
+title: "Data & Code"
+permalink: /datacode/
 author_profile: true
-redirect_from: 
-  - /datacode/
-  - /datacode.md
 ---
-
 {% include base_path %}
 
 [See my CV here](http://marespadafor.github.io/files/CV_long2020.pdf) 
