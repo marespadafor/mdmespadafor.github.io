@@ -15,12 +15,14 @@ To test these questions, I use the Millennium Cohort Study, a longitudinal panel
 ## Selection or compensation? The uneven effect of grade retention across family origins, with Fabrizio Bernardi. 
 This paper focuses on the uneven effect of a remediation policy within the educational system: grade retention. We study the transition from Compulsory Education to higher secondary education in Spain, where retaking is relatively high. We investigate whether retaking a grade during compulsory education reduces the probability of remaining in the education system and whether the negative effect of retaking on school continuation decisions differs by social origins. Drawing upon different data-sets, we use two innovative research designs that account for selection in educational transition models: an instrumental variable approach and a re-weighting technique. First, we find that grade retention increases the chances of dropping out for all, but its effect is substantially more detrimental for children from disadvantaged backgrounds. Second, we show that naïve models that do not consider reverse causality and selection bias underestimate inter-generational transmission of educational inequalities. These findings suggest that grade retention fails as a remediation policy and instead increases the inter-generational transmission of inequalities in education.
 
-<i>Draft available upon request</i>. Funded by the GEOSMITE Project.
+- <i>Draft available upon request</i>. 
+- Funded by the GEOSMITE Project.
 
 ## The negative consequences of gambling opportunities on human capital formation: Evidence from Spain, with Sergi Martínez. 
    The proliferation of on-site betting shops has received enormous public attention, becoming one of the most alarming health policy issues in contemporary cities. However, there is little evidence on whether its growing presence nearby vulnerable populations produce social harm beyond its known adverse individual effects. This study provides new evidence on the negative societal effects of betting houses. Our research design takes advantage of a new wave of openings in Madrid (Spain), which created a sudden increase in the supply of on-site gambling. Using a differences-in-differences design, we find that an increase in gambling opportunities aggravates educational inequalities. Results reveal that the opening of betting houses nearby high schools declines educational performance, especially in public schools in less advantaged areas. We show that the effects of an increase in gambling opportunities are not small nor diminishing with time. In fact, they represent meaningful changes in school performance, which generated greater inequality. Unfortunately, the conditions for these results to hold---an increase in gambling opportunities around vulnerable populations---are met in many cities beyond Madrid. Our findings have relevant policy implications for designing policies tackling the increase of unequal opportunities promoted by betting houses.
 
-<i>Draft available upon request</i>, Revise and Resubmit
+- <i>Draft available upon request</i>
+- Status: Revise and Resubmit
 
 # <span style="color:#52adc8"> Work in progress</span>
 ## School entry age and parental strategic behaviour: A tale of two mechanisms of social inequality in early achievement, with Giampiero Passaretta. 
