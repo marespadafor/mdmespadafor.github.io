@@ -2,8 +2,8 @@
 
 ---
 layout: archive
-title: "Sitemap"
-permalink: /sitemap/
+title: "Data & Code"
+permalink: /datacode/
 author_profile: true
 ---
 
