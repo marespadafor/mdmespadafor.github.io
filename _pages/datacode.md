@@ -1,5 +1,5 @@
 ---
-layout: datacode
+
 title: "Data & Code"
 permalink: /datacode/
 author_profile: true
