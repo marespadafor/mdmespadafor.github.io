@@ -7,8 +7,6 @@ permalink: /sitemap/
 author_profile: true
 ---
 
-{% include base_path %}
-
 ### Replication Materials
 #### The negative consequences of gambling opportunities on human capital formation: Evidence from Spain, with Sergi Martínez.
 - [Replication materials](http://github.com/marespadafor/replication_gambling)
