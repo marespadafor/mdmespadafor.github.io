@@ -1,8 +1,11 @@
-
 ---
+permalink: /
 title: ""
-permalink: /datacode/
+excerpt: "Data & Code"
 author_profile: true
+redirect_from: 
+  - /datacode/
+  - /datacode.md
 ---
 
 {% include base_path %}
@@ -15,5 +18,4 @@ author_profile: true
 - [Replication materials](http://github.com/marespadafor/replication_gambling)
 - Access to the paper
 ### Original data
-- Panel data on Madrid Schools (2014-2019)
-
+- [Panel data on Madrid High Schools (2013-2018)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/K4NSBK)
