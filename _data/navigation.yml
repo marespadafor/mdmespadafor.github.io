@@ -4,7 +4,6 @@ main:
   - title: "Research"
     url: /research/ 
    
-
   - title: "Teaching"
     url: /teaching/    
     
@@ -13,7 +12,7 @@ main:
     
   - title: "Data & Code"
     url: /data_code/
-        
+    
  # - title: "Blog Posts"
  #   url: /year-archive/
     
