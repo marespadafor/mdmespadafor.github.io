@@ -1,5 +1,5 @@
 ---
-title: "In Progress"
+title: ""
 permalink: /research/
 author_profile: true
 ---
