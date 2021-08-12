@@ -9,11 +9,8 @@ author_profile: true
 <details>
 <summary>Read more</summary>
 This article examines whether and when family socioeconomic status (SES) moderates gender differences on several educational outcomes. Although there is a growing literature showing the importance of SES for explaining the male disadvantage in education, when and through which channel these gaps emerge remain, at large, unclear. Focusing on the timing and the domain of the gender-SES gaps, I investigate whether these emerge before, or after schooling. That is,  whether boys and girls from different social strata start unequal, or whether these differences emerge as the result of a cultural process—which is equal for boys and girls in advantaged families but unequal for less advantaged families. To study these channels, I use the Millennium Cohort Study, a longitudinal panel from the United Kingdom, to focus on children's outcomes between the ages 3 to 14. First, I find that girls and boys within each level of family advantage start equal health at birth or cognitive abilities throughout compulsory schooling. Favouring the cultural hypothesis, I find that the gender gap in externalising problems grows over time. Moreover, results suggests that high SES families are able to moderate the higher incidence of boys externalising behaviours at age 14—when gender identities are more salient at school.![image](https://user-images.githubusercontent.com/55590212/129213821-daebcbcb-81f6-45ff-b1b9-d1f84308855c.png)
-
 </details>
 <br>
-
-
 - <i>Draft available upon request</i>. 
 - Status: in preparation  
 
