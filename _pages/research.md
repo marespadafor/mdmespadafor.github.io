@@ -3,16 +3,7 @@ title: ""
 permalink: /research/
 author_profile: true
 ---
-# <span style="color:#52adc8"> Working papers </span>
-
-## Are boys more vulnerable to family disadvantage? Evidence from the United Kingdom.
-<details>
-<summary>Read more</summary>
-This article examines whether and when family socioeconomic status (SES) moderates gender differences on several educational outcomes. Although there is a growing literature showing the importance of SES for explaining the male disadvantage in education in the United States, when and through which channel these gaps might emerge remains, at large, unclear. Focusing on the timing and the domain of the gender-SES gaps, I investigate whether these emerge before, or after schooling. That is,  whether boys and girls from different social strata start unequal, or whether these differences emerge as the result of a cultural process—which is more  unequal for less advantaged families. To study these channels, I use the Millennium Cohort Study, a longitudinal panel from the United Kingdom, to focus on children's outcomes between the ages 3 to 14. First, against the skill deficit hypothesis, I find that girls and boys within each level of family socioeconomic status start out with equal health at birth and cognitive abilities throughout compulsory schooling. Favouring the cultural hypothesis, I find that the gender gap in externalising problems grows over time. Moreover, results suggests that high SES families are able to moderate the higher incidence of boys externalising behaviours at age 14, when gender identities become more salient at school.
-</details>
-<br>
-- <i>Draft available upon request</i>. 
-- Status: in preparation  
+# <span style="color:#52adc8"> Under Review </span>
 
 ## The negative consequences of sports gambling opportunities on human capital formation: evidence from Spain, with Sergi Martínez. 
 <details>
@@ -22,7 +13,15 @@ The proliferation of on-site betting shops has received enormous public attentio
 <br>
 - <i>Draft available upon request</i>
 - Status: Revise and Resubmit
-
+# <span style="color:#52adc8"> Working papers </span>
+## Are boys more vulnerable to family disadvantage? Evidence from the United Kingdom.
+<details>
+<summary>Read more</summary>
+This article examines whether and when family socioeconomic status (SES) moderates gender differences on several educational outcomes. Although there is a growing literature showing the importance of SES for explaining the male disadvantage in education in the United States, when and through which channel these gaps might emerge remains, at large, unclear. Focusing on the timing and the domain of the gender-SES gaps, I investigate whether these emerge before, or after schooling. That is,  whether boys and girls from different social strata start unequal, or whether these differences emerge as the result of a cultural process—which is more  unequal for less advantaged families. To study these channels, I use the Millennium Cohort Study, a longitudinal panel from the United Kingdom, to focus on children's outcomes between the ages 3 to 14. First, against the skill deficit hypothesis, I find that girls and boys within each level of family socioeconomic status start out with equal health at birth and cognitive abilities throughout compulsory schooling. Favouring the cultural hypothesis, I find that the gender gap in externalising problems grows over time. Moreover, results suggests that high SES families are able to moderate the higher incidence of boys externalising behaviours at age 14, when gender identities become more salient at school.
+</details>
+<br>
+- <i>Draft available upon request</i>. 
+- Status: in preparation  
 ## Selection or compensation? The uneven effect of grade retention across family origins, with Fabrizio Bernardi. 
 <details>
 <summary>Read more</summary>
@@ -31,16 +30,14 @@ This paper focuses on the uneven effect of a remediation policy within the educa
 <br>
 - <i>Draft available upon request</i>. 
 - Funded by the GEOSMITE Project.
-
-# <span style="color:#52adc8"> Work in progress</span>
+# <span style="color:#52adc8"> In preparation </span>
 ## Does family socioeconomic status compensate for an early entry into school life? Evidence from Germany, with Giampiero Passaretta. 
 <details>
 <summary>Read more</summary>
 Previous literature shows that children who enter school at a younger age under perform compared to older classmates throughout school and adulthood.In this article, we analyse whether families differently react towards younger-for-grade children and when differences across family socioeconomic status (SES) in school entry age emerge. We contribute to the literature by providing an analytical example of one channel that could contribute to inequality in learning and achievement.
-
 Using the German National Educational Panel Study (NEPS) and a novel research design, we estimate the effect of school entry age on various cognitive domains throughout primary education and in the transition to academic secondary school. First, we find that an early school entry age leads to lower cognitive abilities. Unlike previous studies, these effects are equal across family origins: high-SES families do not engage in remediation strategies for younger than grade students. However, by the time students reach the transition to secondary school, only low-SES younger than grade children have a lower likelihood to be recommended to the academic track.
-
 Overall, our results suggest that while high SES families do not react towards a disadvantage in terms of performance, they do in terms of expected attainment. These findings challenge the compensatory advantage hypothesis, by which children from high SES families are less on prior negative outcomes.
 </details>
 <br>
 - <i>Presentation available upon request</i>. 
+
