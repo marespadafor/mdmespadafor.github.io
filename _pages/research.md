@@ -45,3 +45,5 @@ Overall, our results suggest that while high SES families do not react towards a
 </details>
 <br>
 
+## What's in family advantage? Exogeneous educational schocks and the intergenerational transmission of inequalities, with Alicia Garcia-Sierra
+
