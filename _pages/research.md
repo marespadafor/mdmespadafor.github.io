@@ -5,7 +5,7 @@ author_profile: true
 ---
 # <span style="color:#52adc8"> Under Review </span>
 
-## The negative consequences of sports gambling opportunities on human capital formation: evidence from Spain, with Sergi Martínez. 
+## Espadafor M & Martínez S. The negative consequences of sports gambling opportunities on human capital formation: evidence from Spain, with Sergi Martínez. 
 <details>
 <summary>Read more</summary>
 The proliferation of on-site betting shops has received enormous public attention, becoming one of the most alarming health policy issues in contemporary cities. However, there is little evidence on whether its growing presence nearby vulnerable populations produce social harm beyond its known adverse individual effects. This study provides new evidence on the negative societal effects of betting houses. Our research design takes advantage of a new wave of openings in Madrid (Spain), which created a sudden increase in the supply of on-site gambling. Using a differences-in-differences design, we find that an increase in gambling opportunities aggravates educational inequalities. Results reveal that the opening of betting houses nearby high schools declines educational performance, especially in public schools in less advantaged areas. We show that the effects of an increase in gambling opportunities are not small nor diminishing with time. In fact, they represent meaningful changes in school performance, which generated greater inequality. Unfortunately, the conditions for these results to hold---an increase in gambling opportunities around vulnerable populations---are met in many cities beyond Madrid. Our findings have relevant policy implications for designing policies tackling the increase of unequal opportunities promoted by betting houses.
@@ -16,7 +16,7 @@ The proliferation of on-site betting shops has received enormous public attentio
 
 # <span style="color:#52adc8"> Working papers </span>
 
-## Are boys more vulnerable to family disadvantage? Evidence from the United Kingdom.
+## Espadafor. Are boys more vulnerable to family disadvantage? Evidence from the United Kingdom.
 <details>
 <summary>Read more</summary>
 This article examines whether and when family socioeconomic status (SES) moderates gender differences on several educational outcomes. Although there is a growing literature showing the importance of SES for explaining the male disadvantage in education in the United States, when and through which channel these gaps might emerge remains, at large, unclear. Focusing on the timing and the domain of the gender-SES gaps, I investigate whether these emerge before, or after schooling. That is,  whether boys and girls from different social strata start unequal, or whether these differences emerge as the result of a cultural process—which is more  unequal for less advantaged families. To study these channels, I use the Millennium Cohort Study, a longitudinal panel from the United Kingdom, to focus on children's outcomes between the ages 3 to 14. First, against the skill deficit hypothesis, I find that girls and boys within each level of family socioeconomic status start out with equal health at birth and cognitive abilities throughout compulsory schooling. Favouring the cultural hypothesis, I find that the gender gap in externalising problems grows over time. Moreover, results suggests that high SES families are able to moderate the higher incidence of boys externalising behaviours at age 14, when gender identities become more salient at school.
@@ -25,8 +25,7 @@ This article examines whether and when family socioeconomic status (SES) moderat
 </details>
 <br>
 
-## Selection or compensation? The uneven effect of grade retention across family origins, with Fabrizio Bernardi. 
-<details>
+## Espadafor & Bernardi. Selection or compensation? The uneven effect of grade retention across family origins.
 <summary>Read more</summary>
 This paper focuses on the uneven effect of a remediation policy within the educational system: grade retention. We study the transition from Compulsory Education to higher secondary education in Spain, where retaking is relatively high. We investigate whether retaking a grade during compulsory education reduces the probability of remaining in the education system and whether the negative effect of retaking on school continuation decisions differs by social origins. Drawing upon different data-sets, we use two innovative research designs that account for selection in educational transition models: an instrumental variable approach and a re-weighting technique. First, we find that grade retention increases the chances of dropping out for all, but its effect is substantially more detrimental for children from disadvantaged backgrounds. Second, we show that naïve models that do not consider reverse causality and selection bias underestimate inter-generational transmission of educational inequalities. These findings suggest that grade retention fails as a remediation policy and instead increases the inter-generational transmission of inequalities in education.
  - <i>Draft available upon request</i>. 
@@ -35,7 +34,7 @@ This paper focuses on the uneven effect of a remediation policy within the educa
 <br>
 
 # <span style="color:#52adc8"> In preparation </span>
-## Does family socioeconomic status compensate for an early entry into school life? Evidence from Germany, with Giampiero Passaretta. 
+## Espadafor & Passaretta. Does family socioeconomic status compensate for an early entry into school life? Evidence from Germany, with Giampiero Passaretta. 
 <details>
 <summary>Read more</summary>
 Previous literature shows that children who enter school at a younger age under perform compared to older classmates throughout school and adulthood.In this article, we analyse whether families differently react towards younger-for-grade children and when differences across family socioeconomic status (SES) in school entry age emerge. We contribute to the literature by providing an analytical example of one channel that could contribute to inequality in learning and achievement.
