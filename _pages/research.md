@@ -6,7 +6,7 @@ author_profile: true
 
 # <span style="color:#52adc8"> Working papers </span>
 
-## Espadafor. Are boys more vulnerable to family disadvantage? Evidence from the United Kingdom.
+## Espadafor, M. Are boys more vulnerable to family disadvantage? Evidence from the United Kingdom.
 <details>
 <summary>Read more</summary>
 This article examines whether and when family socioeconomic status (SES) moderates gender differences on several educational outcomes. Although there is a growing literature showing the importance of SES for explaining the male disadvantage in education in the United States, when and through which channel these gaps might emerge remains, at large, unclear. Focusing on the timing and the domain of the gender-SES gaps, I investigate whether these emerge before, or after schooling. That is,  whether boys and girls from different social strata start unequal, or whether these differences emerge as the result of a cultural process—which is more  unequal for less advantaged families. To study these channels, I use the Millennium Cohort Study, a longitudinal panel from the United Kingdom, to focus on children's outcomes between the ages 3 to 14. First, against the skill deficit hypothesis, I find that girls and boys within each level of family socioeconomic status start out with equal health at birth and cognitive abilities throughout compulsory schooling. Favouring the cultural hypothesis, I find that the gender gap in externalising problems grows over time. Moreover, results suggests that high SES families are able to moderate the higher incidence of boys externalising behaviours at age 14, when gender identities become more salient at school.
@@ -15,7 +15,7 @@ This article examines whether and when family socioeconomic status (SES) moderat
 </details>
 <br>
 
-## Espadafor & Bernardi. Selection or compensation? The uneven effect of grade retention across family origins.
+## Espadafor, M. & Bernardi, F. Selection or compensation? The uneven effect of grade retention across family origins.
 <details>
 
 <summary>Read more</summary>
@@ -26,7 +26,7 @@ This paper focuses on the uneven effect of a remediation policy within the educa
 <br>
 
 # <span style="color:#52adc8"> In preparation </span>
-## Espadafor & Passaretta. Does family socioeconomic status compensate for an early entry into school life? Evidence from Germany, with Giampiero Passaretta. 
+## Espadafor, M. & Passaretta, G. Does family socioeconomic status compensate for an early entry into school life? Evidence from Germany, with Giampiero Passaretta. 
 <details>
 <summary>Read more</summary>
 Previous literature shows that children who enter school at a younger age under perform compared to older classmates throughout school and adulthood.In this article, we analyse whether families differently react towards younger-for-grade children and when differences across family socioeconomic status (SES) in school entry age emerge. We contribute to the literature by providing an analytical example of one channel that could contribute to inequality in learning and achievement.
@@ -37,7 +37,7 @@ Overall, our results suggest that while high SES families do not react towards a
 <br>
 
 
-## The Causal Effect of Parental Education on Children’s Attainment: an Approach Using the Spanish Educational Reform, with Alicia García Sierra. 
+## Garcia Sierra, A. & Espadafor, M. The Causal Effect of Parental Education on Children’s Attainment: an Approach Using the Spanish Educational Reform.
 <details>
 <summary>Read more</summary>
 Recent research on the intergenerational transmission of inequalities has placed importance on how to estimate these processes correctly. However, a lower degree of care has been given to defining what is being estimated. Standard cross-sectional analysis often presents endogeneity problems and fails to explore how and which parental characteristics drive these processes. 
