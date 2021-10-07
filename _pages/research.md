@@ -11,11 +11,13 @@ author_profile: true
 <summary>Read more</summary>
 This article examines whether and when family socioeconomic status (SES) moderates gender differences on several educational outcomes. Although there is a growing literature showing the importance of SES for explaining the male disadvantage in education in the United States, when and through which channel these gaps might emerge remains, at large, unclear. Focusing on the timing and the domain of the gender-SES gaps, I investigate whether these emerge before, or after schooling. That is,  whether boys and girls from different social strata start unequal, or whether these differences emerge as the result of a cultural process—which is more  unequal for less advantaged families. To study these channels, I use the Millennium Cohort Study, a longitudinal panel from the United Kingdom, to focus on children's outcomes between the ages 3 to 14. First, against the skill deficit hypothesis, I find that girls and boys within each level of family socioeconomic status start out with equal health at birth and cognitive abilities throughout compulsory schooling. Favouring the cultural hypothesis, I find that the gender gap in externalising problems grows over time. Moreover, results suggests that high SES families are able to moderate the higher incidence of boys externalising behaviours at age 14, when gender identities become more salient at school.
 
-  - <i>Draft available upon request</i>. 
+  - <i>Draft in progress </i>. 
 </details>
 <br>
 
 ## Espadafor & Bernardi. Selection or compensation? The uneven effect of grade retention across family origins.
+<details>
+
 <summary>Read more</summary>
 This paper focuses on the uneven effect of a remediation policy within the educational system: grade retention. We study the transition from Compulsory Education to higher secondary education in Spain, where retaking is relatively high. We investigate whether retaking a grade during compulsory education reduces the probability of remaining in the education system and whether the negative effect of retaking on school continuation decisions differs by social origins. Drawing upon different data-sets, we use two innovative research designs that account for selection in educational transition models: an instrumental variable approach and a re-weighting technique. First, we find that grade retention increases the chances of dropping out for all, but its effect is substantially more detrimental for children from disadvantaged backgrounds. Second, we show that naïve models that do not consider reverse causality and selection bias underestimate inter-generational transmission of educational inequalities. These findings suggest that grade retention fails as a remediation policy and instead increases the inter-generational transmission of inequalities in education.
  - <i>Draft available upon request</i>. 
