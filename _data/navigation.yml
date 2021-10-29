@@ -1,21 +1,21 @@
 # main links links
 main:
- - title: "Research"
+      
+  - title: "Research"
     url: /research/ 
     
- - title: "Publications"
+  - title: "Publications"
     url: /publications/ 
-   
- - title: "Teaching"
-    url: /teaching/    
     
- - title: "CV"
-    url: /cv/
+  - title: "Teaching"
+    url: /teaching/
     
- - title: "Data & Code"
-    url: /datacode/
-    
+  - title: "CV"
+    url: /cv/    
+        
  # - title: "Blog Posts"
  #   url: /year-archive/
     
-
+  - title: "Data & Code"
+    url: /datacode/
+    
