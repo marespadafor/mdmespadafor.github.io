@@ -10,7 +10,7 @@ redirect_from:
 About me
 ======
 
-Hi! Welcome to my site. 
+Hi, welcome to my site!
 
 I am Sociologist from Almería, a small city by the mediterranean in Spain. I am a PhD Candidate at the European University Institute (Florence, Italy) but this semester I am a Visiting Scholar at the Center for Demography and Ecology at the University of Wisconsin-Madison (USA). 
 
