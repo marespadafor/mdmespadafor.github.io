@@ -10,17 +10,13 @@ redirect_from:
 About me
 ======
 
-I am a PhD candidate at the European University Institute (Florence, Italy) and a visiting researcher at UW-Madison (Wisconsin, USA). I studied a BA in Politics and Public Administration (Summa Cum Laude). Shortly after, I completed a [Master in Research in Social Sciences](https://ic3jm.es/en/postgraduates/master-degree-social-sciences/) at the Juan-March Institute. During these studies, I also worked part-time as RA at the “GEMM” project and collaborated within the [D-Lab](https://www.d-labsite.com/) at the Carlos-III University (Madrid, Spain). I am interested in broad topics such as social stratification, with a particular focus on educational inequalities.
+Hi! Welcome to my site. I am Sociologist from Almería, a small city by the mediterranean, in Spain. I am a PhD Candidate at the European University Institute (Florence, Italy) but this semester I am a Visiting Scholar at the Center for Demography and Ecology at the University of Wisconsin-Madison (USA). 
 
-Research
-======
-At the moment, I work on topics related to the transmission of intergenerational advantages and Inequality of Educational Opportunities. I use quantitative methods and (aim for) causal inference designs.
+I am interested in broad topics such as social stratification, with a particular focus on educational inequalities.
 
-In my thesis, I look at how institutional barriers and random events unevenly affect children's educational outcomes across family origin. From birth, throughout school, my thesis provides new empirical evidence both on processess of selection and on compensation that ultimately lead to the observed educational inequalities across family origins. All in all, I show how, across several outcomes and measurments of family origins, naive models consistenly underestimate the intergenerational transmission of inequalities. 
+If you work on similar topics or are interested in my work, please get in touch! 
 
-I have recently joint the [GEOSMINE](https://www.fabriziobernardi.net/the-geography-of-social-mobility-in-europe/) (Geography of Social Mobility in Europe) project, lead by Fabrizio Bernardi and based at the [CLIC](https://www.eui.eu/Projects/CLIC) (Comparative Life Course & Inequality Research Centre). This project's aim to understand how the interplay between place of birth and social class of origin affect the intergenerational reproduction of inequalities.
-
-![](http://marespadafor.github.io/images/productive.jpeg)
+I am very active on twitter, see bellow what is the last thing I tweeted about.
 
 
 ### What I'm tweeting about
