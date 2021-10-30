@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mar Espadafor"
+title                    : "Mar Cañizares Espadafor"
 title_separator          : "-"
-name                     : &name "Mar Espadafor"
+name                     : &name "Mar Cañizares Espadafor"
 description              : &description "PhD Candidate at the European University Institute (Florence, Italy)"
 url                      : https://marespadafor.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
