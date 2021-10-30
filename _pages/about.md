@@ -12,7 +12,7 @@ About me
 
 Hi, welcome to my site!
 
-I am Sociologist from Almería, a small city by the Mediterranean sea in Spain--some say its one of the [https://weather-and-climate.com/average-monthly-hours-Sunshine,almeria-andalucia-es,Spain](sunniest cities) in Europe. I am a PhD Candidate at the European University Institute (Florence, Italy) but this semester I am a Visiting Scholar at the Center for Demography and Ecology at the University of Wisconsin-Madison (USA). 
+I am Sociologist from Almería, a small city by the Mediterranean sea in Spain--some say its one of the (https://weather-and-climate.com/average-monthly-hours-Sunshine,almeria-andalucia-es,Spain)[sunniest cities] in Europe. I am a PhD Candidate at the European University Institute (Florence, Italy) but this semester I am a Visiting Scholar at the Center for Demography and Ecology at the University of Wisconsin-Madison (USA). 
 
 I am interested in broad topics such as social stratification, with a particular focus on educational inequalities. At the moment, I work on topics related to the transmission of intergenerational advantages and Inequality of Educational Opportunities. I use quantitative methods and (aim for) causal inference designs. I have also developed an interest on policy analysis.
 
