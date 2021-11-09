@@ -20,7 +20,7 @@ author_profile: true
    
    - [ORM](https://www.orm.es/programas/turno-de-noche/turno-de-noche-mar-canizares-cuando-se-abre-una-casa-de-apuestas-en-los-barrios-desaventajados-la-nota-media-de-selectividad-baja-un-0-5/)
    
-   -[RTVE](https://www.rtve.es/noticias/20211107/casas-apuestas-proximidad-colegios-barrios/2211660.shtml) 
+   - [RTVE](https://www.rtve.es/noticias/20211107/casas-apuestas-proximidad-colegios-barrios/2211660.shtml) 
 </details>
 <br>
 
