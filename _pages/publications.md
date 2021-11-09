@@ -15,6 +15,12 @@ author_profile: true
    - [Hora 14, Cadena SER Madrid](https://play.cadenaser.com/audio/regional_centro_hora14madrid_20211031_140509_143000/) prime-time in Spanish radio, starts min 15
 
    - [Hora 14, Cadena SER](https://prisa-es.mc.tritondigital.com/BOLETINES_SER_PODCAST_1043_P/media/playser/audio/202110/31/1635678903_8194.mp3), prime-time in          Spanish radio, starts min 3:15 
+   
+   - [20minutos](https://www.20minutos.es/noticia/4879784/0/casas-de-apuestas-y-rendimiento-escolar/)
+   
+   - [ORM](https://www.orm.es/programas/turno-de-noche/turno-de-noche-mar-canizares-cuando-se-abre-una-casa-de-apuestas-en-los-barrios-desaventajados-la-nota-media-de-selectividad-baja-un-0-5/)
+   
+   -[RTVE](https://www.rtve.es/noticias/20211107/casas-apuestas-proximidad-colegios-barrios/2211660.shtml) 
 </details>
 <br>
 
