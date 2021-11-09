@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-- **Espadafor, M** & Martínez, S. 2021. The negative consequences of sports betting opportunities on human capital formation: evidence from Spain. PLOS One. [Access the paper](https://journals.plos.org/plosone/article/metrics?id=10.1371/journal.pone.0258857), [Replication Materials](https://doi.org/10.7910/DVN/K4NSBK).<details> <summary>Outreach</summary>
+- **Espadafor, M** & Martínez, S. 2021. The negative consequences of sports betting opportunities on human capital formation: evidence from Spain. PLOS One. [Access the paper](https://journals.plos.org/plosone/article/metrics?id=10.1371/journal.pone.0258857), [Replication Materials](https://doi.org/10.7910/DVN/K4NSBK).
+
+   <details> <summary>Outreach</summary>
    - [Cadena SER](https://cadenaser.com/ser/2021/10/31/sociedad/1635675473_674477.html)
   
    - [El Diario](https://www.eldiario.es/sociedad/abrir-casas-apuestas-cerca-institutos-baja-rendimiento-escolar-barrios-humildes_1_8440297.html), news paper's        headline 31/10/2021.
@@ -22,8 +24,8 @@ author_profile: true
    
    - [RTVE](https://www.rtve.es/noticias/20211107/casas-apuestas-proximidad-colegios-barrios/2211660.shtml) 
 
-</details>
-<br>
+   </details>
+   <br>
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=ehRMwhQAAAAJ&hl=es&oi=ao).
 
