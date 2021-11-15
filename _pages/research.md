@@ -54,7 +54,7 @@ In this article, we focus on the role of parental education. We explore if (1) c
 
 ## Espadafor, M. & Kreiman, G. Can state-building decisions equalize the playing field in the aftermath of civil conflict? Evidence from Perú.
 
-## Espadafor, M. & Cozzani, M. Contraception and abortion access effects on maternal and neonatal health-outcomes.
+## Espadafor, M. & Cozzani, M. Contraception and abortion access effects on maternal and neonatal health-outcomes: Evidence from Spain.
 
 
 
