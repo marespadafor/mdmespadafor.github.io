@@ -59,6 +59,7 @@ In this paper, we argue that the expansion of state capacity, through increased 
 First, we leverage novel census data (1972-2017) to analyse whether districts that were either contested or controlled by the insurgent group, Sendero Luminoso, had lower levels of educational attainment right after the conflict. Then, using a Difference in Differences design, we test whether wartime inequalities are compensated through an expansion of state reach to these areas. We expect that those communities contested or under insurgent control (wartime areas) had lower levels of educational access and attainment than those controlled by the state. We expect these inequalities to decrease or disappear by state building initiatives, such as the provision of public schools.  Our study aims to challenge existent evidence on the relation between war and education showing how the dynamics of state expansion could end up with some of the most pervasive inequalities developed by internal armed conflicts. 
 </details>
 <br>
+
 ## Espadafor, M. & Cozzani, M. Contraception and abortion access effects on maternal and neonatal health-outcomes: Evidence from Spain.
 
 
