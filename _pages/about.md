@@ -16,7 +16,7 @@ I am quantitative sociologist from Almería (Spain), one of the [sunniest cities
 
 I am a PhD Candidate at the European University Institute (Florence, Italy) and for the Fall semester 2021, also a Visiting Scholar at the Center for Demography and Ecology at the University of Wisconsin-Madison (USA). 
 
-I am interested in broad topics such as social stratification, with a particular focus on educational inequalities. At the moment I have three main lines of research: the intergenerational transmission of educational inequalities, the consequences of restricting women's reproductive rights, and the impact of conflict and state building decisions on inequality. In my research I use quantitative methods and (aim for) causal inference designs. 
+I am interested in broad topics such as social stratification, with a particular focus on educational and health inequalities. In my research I use quantitative methods and (aim for) causal inference designs. You can learn more about my research [here](https://marespadafor.github.io/research/).
 
 
 Recently, I have also developed an interest on policy analysis. My research has been featured in [elDiario.es](https://www.eldiario.es/sociedad/abrir-casas-apuestas-cerca-institutos-baja-rendimiento-escolar-barrios-humildes_1_8440297.html), [Cadena SER](https://cadenaser.com/ser/2021/10/31/sociedad/1635675473_674477.html), and [RTVE](https://www.rtve.es/noticias/20211107/casas-apuestas-proximidad-colegios-barrios/2211660.shtml), in Spain.
