@@ -11,7 +11,7 @@ In my thesis, I look at how institutional barriers and random events unevenly af
 
 I have recently joint the [GEOSMINE](https://www.fabriziobernardi.net/the-geography-of-social-mobility-in-europe/) (Geography of Social Mobility in Europe) project, lead by Fabrizio Bernardi and based at the [CLIC](https://www.eui.eu/Projects/CLIC) (Comparative Life Course & Inequality Research Centre). This project's aim to understand how the interplay between place of birth and social class of origin affect the intergenerational reproduction of inequalities.
 
-Because I have a background in Political Sciences and Public Administration, I am particularly interested in how historical and contemporary states and the rule of law can shape inequalities. For example, I am developing a project which looks at the consequences of women's reproductive rights, and other which explores the impact of state building decisions in the aftermath of a civil conflict.
+Because I have a background in Political Sciences and Public Administration, I am particularly interested in how historical and contemporary states and the rule of law can shape or produce (if any) inequalities. For example, I am developing a project which looks at the consequences of women's reproductive rights, and other which explores the impact of state building decisions in the aftermath of a civil conflict.
 
 # <span style="color:#52adc8"> Working papers </span>
 
