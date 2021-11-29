@@ -5,7 +5,7 @@ author_profile: true
 ---
 Research
 ======
-At the moment, I work on topics related to inequality.
+I am broadly interested in inequalities: how these are transmitted through generations or through different institutional configurations.
 
 In my thesis, I look at how institutional barriers and random events unevenly affect children's educational outcomes across family origin. From birth, throughout school, my thesis provides new empirical evidence both on processess of selection and on compensation that ultimately lead to the observed educational inequalities across family origins. All in all, I show how, across several outcomes and measurments of family origins, naive models consistenly underestimate the intergenerational transmission of inequalities. 
 
