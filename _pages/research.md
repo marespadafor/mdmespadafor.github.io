@@ -62,9 +62,5 @@ First, we leverage novel census data (1972-2017) to analyse whether districts th
 </details>
 <br>
 
-%## Espadafor, M. & Cozzani, M. The effect of access to abortion on birth outcomes: Evidence from Spain
-
-
-%## Espadafor, M. The Emergency Contraceptive Pill and women's educational attainment in Spain.
 
 
