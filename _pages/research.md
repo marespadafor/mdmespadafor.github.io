@@ -53,14 +53,5 @@ The association between parental education and children's educational outcomes h
 </details>
 <br>
 
-## Espadafor, M. & Kreiman, G. Can state-building decisions equalize the playing field in the aftermath of civil conflict? Evidence from Perú.
-<details>
-<summary>Read more</summary>
- How do civil war dynamics affect long-term educational outcomes in the aftermath of the conflict? Previous evidence consistently shows the negative impact of civil war on the educational attainment of the population exposed to wartime violence. However, these studies neglect one of the core dynamics in post-conflict scenarios: the expansion of state reach to wartime affected areas. 
-In this paper, we argue that the expansion of state capacity, through increased access to primary and secondary education, can lead to potential improvements in the educational attainment of people living in conflict affected areas, which ultimately reduce wartime inequalities. We test these arguments focusing on the Peruvian Civil War (1980-1992). 
-First, we leverage novel census data (1972-2017) to analyse whether districts that were either contested or controlled by the insurgent group, Sendero Luminoso, had lower levels of educational attainment right after the conflict. Then, using a Difference in Differences design, we test whether wartime inequalities are compensated through an expansion of state reach to these areas. We expect that those communities contested or under insurgent control (wartime areas) had lower levels of educational access and attainment than those controlled by the state. We expect these inequalities to decrease or disappear by state building initiatives, such as the provision of public schools.  Our study aims to challenge existent evidence on the relation between war and education showing how the dynamics of state expansion could end up with some of the most pervasive inequalities developed by internal armed conflicts. 
-</details>
-<br>
-
 
 
