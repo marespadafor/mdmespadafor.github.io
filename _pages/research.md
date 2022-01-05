@@ -24,7 +24,7 @@ This article examines whether and when family socioeconomic status (SES) moderat
 </details>
 <br>
 
-## Espadafor, M. & Bernardi, F. Selection or compensation? The uneven effect of grade retention across family origins.
+## Espadafor, M. Selection or compensation? The uneven effect of grade retention across family origins.
 <details>
 
 <summary>Read more</summary>
