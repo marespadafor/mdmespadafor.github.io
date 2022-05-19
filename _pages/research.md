@@ -32,28 +32,34 @@ Results suggest that girls and boys within each level of family SES start with e
 <details>
 
 <summary>Read more</summary>
-This chapter focuses on the uneven effect of a remediation policy within the educational system: grade retention. We study the transition from Compulsory Education to higher secondary education in Spain, where retaking is relatively high. We investigate whether retaking a grade during compulsory education reduces the probability of remaining in the education system and whether the effect of retaking on school continuation decisions differs by family socioeconomic status. We leverage differences in regional educational laws to use an Instrumental Variable design that accounts for selection bias in educational transition models. Results show that (1) high-SES families are able to moderate the risk of falling into grade retention, but that (2) increases the chances of dropping out for all. However, (3) its effect is substantially more detrimental for children from low socioeconomic status. Finally, we show that naïve models that do not consider reverse causality and selection bias underestimate inter-generational transmission of educational inequalities. Results suggest that grade retention fails as a remediation policy and instead increases the inter-generational transmission of inequalities in education.
+This chapter focuses on the uneven effect of a remediation policy within the educational system: grade retention. We study the transition from Compulsory Education to higher secondary education in Spain, where retaking is relatively high. We investigate whether retaking a grade during compulsory education reduces the probability of remaining in the education system and whether the effect of retaking on school continuation decisions differs by family socioeconomic status. We leverage differences in regional educational laws to use an Instrumental Variable design that accounts for selection bias in educational transition models. Results show that (1) high-SES families are able to moderate the risk of falling into grade retention, but that (2) increases the chances of dropping out for all. However, (3) its effect is substantially more detrimental for children from low socioeconomic status. Finally, we show that naïve models that do not consider reverse causality and selection bias underestimate inter-generational transmission of educational inequalities. Results suggest that grade retention fails as a remediation policy and instead increases the inter-generational transmission of inequalities in education. 
+  
  - <i>Draft available upon request</i>. 
 - Funded by the GEOSMITE Project.
 </details>
 <br>
 
-# <span style="color:#52adc8"> In preparation </span>
 ## Espadafor, M. & Passaretta, G. Does family socioeconomic status compensate for an early entry into school life? Evidence from Germany, with Giampiero Passaretta. 
 <details>
 <summary>Read more</summary>
 Previous literature shows that children who enter school at a younger age under perform compared to older classmates throughout school and adulthood.In this article, we analyse whether families differently react towards younger-for-grade children and when differences across family socioeconomic status (SES) in school entry age emerge. We contribute to the literature by providing an analytical example of one channel that could contribute to inequality in learning and achievement.
 Using the German National Educational Panel Study (NEPS) and a novel research design, we estimate the effect of school entry age on various cognitive domains throughout primary education and in the transition to academic secondary school. First, we find that an early school entry age leads to lower cognitive abilities. Unlike previous studies, these effects are equal across family origins: high-SES families do not engage in remediation strategies for younger than grade students. However, by the time students reach the transition to secondary school, only low-SES younger than grade children have a lower likelihood to be recommended to the academic track.
 Overall, our results suggest that while high SES families do not react towards a disadvantage in terms of performance, they do in terms of expected attainment. These findings challenge the compensatory advantage hypothesis, by which children from high SES families are less on prior negative outcomes.
-- <i>Presentation available upon request</i>. 
+
+ - <i>Draft available upon request</i>. 
 </details>
 <br>
+
+# <span style="color:#52adc8"> In preparation </span>
 
 
 ## Garcia Sierra, A. & Espadafor, M. ll that glitters is not gold: addressing the effect of parental education on children's attainment.
 <details>
 <summary>Read more</summary>
 The association between parental education and children's educational outcomes has been long studied. However, standard cross-sectional analyses often present endogeneity problems and fail to explore which parental characteristics drive these processes. In this article, we focus on the role of parental education. We explore if (1) changes in parental education are related, in the long term, to children's educational attainment and if (2) differential returns to schooling have implications for the overall transmission of educational (dis)advantages. Using data from the Survey of Health, Ageing and Retirement in Europe (SHARE), we leverage the 1970 Educational Reform in Spain to estimate the causal effect of parental education on children's attainment. This reform extended the compulsory school age, generating a sharp rise in educational attainment for the affected cohorts. Preliminary results suggest that exogeneous increases in educational attainment in the parent generation also translate into better educational outcomes for future generations. Conversely, these changes do not translate in an increase of the inter-generational transmission of educational inequalities across families.
+
+  - <i>Presentation available upon request</i>. 
+
 </details>
 <br>
 
