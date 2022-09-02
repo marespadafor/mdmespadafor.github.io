@@ -7,7 +7,7 @@ Research
 ======
 I am broadly interested in inequalities: how these are transmitted through generations or through different institutional configurations.
 
-In my thesis, I look at how institutional barriers and random events unevenly affect children's educational outcomes across family origin. My thesis provides new empirical evidence on how from birth throughout school both processess of selection and on compensation ultimately lead to the observed educational inequalities across family origins. All in all, I show how, across several outcomes and measurments of family origins, naive models consistenly underestimate the intergenerational transmission of inequalities. 
+In my thesis, I look at how institutional barriers and random events unevenly affect children's educational outcomes across family origin. My thesis provides new empirical evidence on how from birth throughout school both processess of selection and on compensation ultimately lead to the observed educational inequalities across family origins. All in all, I show how, across several outcomes and measurments of family origins, naive models often underestimate the intergenerational transmission of inequalities. 
 
 I have recently joint the [GEOSMINE](https://www.fabriziobernardi.net/the-geography-of-social-mobility-in-europe/) (Geography of Social Mobility in Europe) project, lead by Fabrizio Bernardi and based at the [CLIC](https://www.eui.eu/Projects/CLIC) (Comparative Life Course & Inequality Research Centre). This project's aim to understand how the interplay between place of birth and social class of origin affect the intergenerational reproduction of inequalities.
 
